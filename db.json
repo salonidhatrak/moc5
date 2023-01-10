@@ -47,7 +47,7 @@
                 {
                     "t1": "attend mock",
                     "t2": "attend interview",
-                    "t3":"revision",
+                    "t3": "revision",
                     "t4": "breakfast",
                     "t5": "sleep"
                 }
@@ -62,7 +62,7 @@
                 {
                     "t1": "attend mock",
                     "t2": "attend interview",
-                    "t3":"revision  react",
+                    "t3": "revision  react",
                     "t4": "dinner",
                     "t5": "sleep"
                 }
@@ -77,7 +77,7 @@
                 {
                     "t1": "study history",
                     "t2": "attend interview",
-                    "t3":"revision of history",
+                    "t3": "revision of history",
                     "t4": "palyng footboll",
                     "t5": "sleep"
                 }
@@ -92,11 +92,48 @@
                 {
                     "t1": "shepping ",
                     "t2": "attend interview",
-                    "t3":"commit work",
+                    "t3": "commit work",
                     "t4": "lunch",
                     "t5": "sleep"
                 }
             ]
+        }
+    ],
+    "dogs": [
+        {
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Visakhapatnam",
+            "gender": "Male"
+        },
+        {
+            "id": 1,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+        },
+        {
+            "id": 3,
+            "name": "Jerry",
+            "age": 4,
+            "place": "Nashik",
+            "gender": "Female"
+        },
+        {
+            "id": 4,
+            "name": "Rio",
+            "age": 1,
+            "place": "Home",
+            "gender": "Male"
+        },
+        {
+            "id": 5,
+            "name": "Lio",
+            "age": 5,
+            "place": "Pune",
+            "gender": "Male"
         }
     ]
 }
