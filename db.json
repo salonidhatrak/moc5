@@ -142,5 +142,15 @@
             "place": "Banglore",
             "gender": "Female"
         }
+    ],
+    "saloni": [
+        {
+            "id": 1,
+            "type": "female"
+        },
+        {
+            "id": 2,
+            "type": "male"
+        }
     ]
 }
